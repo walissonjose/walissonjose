@@ -5,7 +5,8 @@ Sou técnico de informática pelo IFAL Arapiraca<br>Cursando Engenharia Química
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Wali#9969) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walisson-araújo/) 
-[![GitLab](https://w7.pngwing.com/pngs/694/277/png-transparent-logo-version-control-gitlab-brand-e-commerce-gitlab-text-orange-logo.png)](https://gitlab.com/walisson.araujo)
+# 📊 My GitLab
+https://gitlab.com/walisson.araujo
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=walissonjose&theme=dark&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=walissonjose&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
