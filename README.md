@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text]()
+![alt text](https://github.com/walissonjose/walissonjose/blob/main/wali.png)
 # 💫 About Me:
 Sou técnico de informática pelo IFAL Arapiraca<br>Cursando Engenharia Química pela UFAL Maceió<br>Sou bolsista do Laboratório de Computação Científica e Visualização - LCCV<br>Gosto dos desafios do Backend e Ciência de Dados
 
