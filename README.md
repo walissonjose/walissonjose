@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text]()
 # 💫 About Me:
 Sou técnico de informática pelo IFAL Arapiraca<br>Cursando Engenharia Química pela UFAL Maceió<br>Sou bolsista do Laboratório de Computação Científica e Visualização - LCCV<br>Gosto dos desafios do Backend e Ciência de Dados
 
