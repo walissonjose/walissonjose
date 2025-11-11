@@ -1,9 +1,8 @@
 ### Hi there 👋
 ![alt text](https://github.com/walissonjose/walissonjose/blob/main/wali.png)
 # 💫 About Me:
-I'm a computer technician at IFAL Arapiraca
-<br>Chemical Engineer
-<br>I am a FullStack Web Developer at the Laboratory of Scientific Computing and Visualization - LCCV
+<br>Chemical Engineer with background in programming and technology.
+<br>FullStack Web Developer at the Laboratory of Scientific Computing and Visualization - LCCV
 <br>I am currently studying scientific programming and numerical methods for simulations.
 
 
